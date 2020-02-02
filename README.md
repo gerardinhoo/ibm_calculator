@@ -2,4 +2,4 @@
 
 Deploying with Netlify
 
-Live Profile Site [IBM CALCULATOR](https://adoring-visvesvaraya-8ef986.netlify.com/).
+Live Ibm Calculator [Ibm Calculator](https://adoring-visvesvaraya-8ef986.netlify.com/).
